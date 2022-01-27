@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gunstore>
+    <class>
+      <gun type="AR">
+          <name>AK-47</name>
+          <year>2005</year>
+          <price>749.00</price>
+      </gun>
+      <gun type="SMG">
+        <name></name>
+        <year>2004</year>
+        <price>499.95</price>
+      </gun>
+      <gun type="Pistol">
+        <name>1911</name>
+        <year>2006</year>
+        <price>250</price>
+      </gun>
+    </class>
+</gunstore>
